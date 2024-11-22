@@ -25,7 +25,6 @@ Here’s what I’m working on:
 ## 🌱 Currently Learning
 - Advanced business strategies 📊
 - Enhancing AI development capabilities 🤖
-- Professional design with Adobe 🎨
 
 ## 📧 Get in Touch
 Feel free to reach out for collaboration or ideas:
