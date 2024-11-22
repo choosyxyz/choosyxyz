@@ -1,27 +1,26 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-Hi, I'm **Choosy**, a driven and passionate individual with big dreams! I'm working on **ChoosyImperium**, aiming to build a billion-dollar brand and become Asia's largest asset manager. I'm dedicated to achieving my goals with relentless focus and constant learning.
+Hi, I'm **Choosy**, a driven and passionate individual with big dreams! I'm working on **ChoosyAI**, aiming to build largest ai langage modle . I'm dedicated to achieving my goals with relentless focus and constant learning.
 
 ## 💼 My Projects
 Here’s what I’m working on:
-- **[ChoosyImperium](https://choosyimperium.blogspot.com/):** Transforming the asset management industry.
+- **[ChoosyAI](https://choosyimperium.blogspot.com/p/choosyai.html):** Transforming the asset management industry.
 - **ChoosyAI:** An advanced AI system built to assist users with insightful solutions.
 - More exciting projects coming soon!
 
 ## 🌟 Skills & Tools
 - **Programming:** HTML, CSS, JavaScript
-- **Design:** Adobe Creative Suite (learning phase)
 - **Business:** Strategic planning, research, and branding.
 
 ## 📌 Highlights
 - Creator of **ChoosyAI**, designed to provide personalized assistance.
-- Visionary behind **ChoosyImperium**, working to revolutionize asset management.
+- Visionary behind **ChoosyAI**, working to revolutionize AI.
 
 ## 🌐 Connect with Me
-- **Website:** [ChoosyImperium](https://choosyimperium.blogspot.com/)
-- **Twitter/X:** [ChoosyImperium](https://x.com/choosyimperium)
-- **Facebook:** [ChoosyImperium](https://www.facebook.com/profile.php?id=61561246640371)
+- **Website:** [Choosy](https://l.instagram.com/?u=https%3A%2F%2Fchoosyx.carrd.co%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaaIfnHc8OZaJKm6RfSHVkDL-GlmvRGw2MdaBJk17ASXFB0N3pXopbimX5Y_aem_-33TwOIXjyUW77kh4uIz1A&e=AT2LXiUjjsBI-t8fka0XaHJOUGatM-zH3o5_y89hZZscaB1DhaM1yX5-7vjoYA2HFM_V0ToIKm2vfiSkkhUjQ6EoTqwUIcZMDhSrfik)
+- **Twitter/X:** [Choosy](https://x.com/choosyxyz)
+- **Instagram:** [Choosy](https://www.facebook.com/profile.php?id=61561246640371)
 
 ## 🌱 Currently Learning
 - Advanced business strategies 📊
@@ -30,7 +29,7 @@ Here’s what I’m working on:
 
 ## 📧 Get in Touch
 Feel free to reach out for collaboration or ideas:
-- **Email:** choosyimperium@example.com (placeholder)
+- **Email:** choosyxyz.reach@gmail.com (placeholder)
 - **Discord:** Coming soon!
 
 ---
