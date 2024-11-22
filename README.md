@@ -18,7 +18,7 @@ Here’s what I’m working on:
 - Visionary behind **ChoosyAI**, working to revolutionize AI.
 
 ## 🌐 Connect with Me
-- **Website:** [Choosy](https://l.instagram.com/?u=https%3A%2F%2Fchoosyx.carrd.co%2F%3Ffbclid%3DPAZXh0bgNhZW0CMTEAAaaIfnHc8OZaJKm6RfSHVkDL-GlmvRGw2MdaBJk17ASXFB0N3pXopbimX5Y_aem_-33TwOIXjyUW77kh4uIz1A&e=AT2LXiUjjsBI-t8fka0XaHJOUGatM-zH3o5_y89hZZscaB1DhaM1yX5-7vjoYA2HFM_V0ToIKm2vfiSkkhUjQ6EoTqwUIcZMDhSrfik)
+- **Website:** [Choosy](https://choosyx.carrd.co/)
 - **Twitter/X:** [Choosy](https://x.com/choosyxyz)
 - **Instagram:** [Choosy](https://www.facebook.com/profile.php?id=61561246640371)
 
