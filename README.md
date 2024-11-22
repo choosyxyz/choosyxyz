@@ -20,7 +20,7 @@ Here’s what I’m working on:
 
 ## 🌐 Connect with Me
 - **Website:** [ChoosyImperium](https://choosyimperium.blogspot.com/)
-- **Twitter/X:** [@choosyimperium](https://x.com/choosyimperium)
+- **Twitter/X:** [ChoosyImperium](https://x.com/choosyimperium)
 - **Facebook:** [ChoosyImperium](https://www.facebook.com/profile.php?id=61561246640371)
 
 ## 🌱 Currently Learning
