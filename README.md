@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-Hi, I'm **Choosy**, a driven and passionate individual with big dreams! I'm working on **ChoosyAI**, aiming to build largest ai langage modle . I'm dedicated to achieving my goals with relentless focus and constant learning.
+Hi, I'm **Choosy**, a driven and passionate individual with big dreams! I'm working on **ChoosyAI**, aiming to build the largest AI language model. I'm dedicated to achieving my goals with relentless focus and constant learning.
 
 ## 💼 My Projects
 Here’s what I’m working on:
