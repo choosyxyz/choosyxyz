@@ -18,7 +18,7 @@ Here’s what I’m working on:
 - Visionary behind **ChoosyAI**, working to revolutionize AI.
 
 ## 🌐 Connect with Me
-- **Website:** [Choosy](https://choosyrelic.github.io/website/)
+- **Website:** [Choosy](https://choosyinfo.github.io/bio)
 - **Twitter/X:** [Choosy](https://x.com/choosyxyz)
 - **Instagram:** [Choosy](https://www.instagram.com/choosy.xyz)
 
