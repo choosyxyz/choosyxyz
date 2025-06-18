@@ -28,7 +28,7 @@ Here’s what I’m working on:
 
 ## 📧 Get in Touch
 Feel free to reach out for collaboration or ideas:
-- **Email:** choosyxyz.reach@gmail.com (placeholder)
+- **Email:** choosy.reach@outlook.com (placeholder)
 - **Discord:** Coming soon!
 
 ---
