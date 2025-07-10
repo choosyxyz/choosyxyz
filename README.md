@@ -18,9 +18,9 @@ Here’s what I’m working on:
 - Visionary behind **ChoosyAI**, working to revolutionize AI.
 
 ## 🌐 Connect with Me
-- **Website:** [Choosy](https://choosymedia.carrd.co)
-- **Twitter/X:** [Choosy](https://x.com/choosyxyz)
-- **Instagram:** [Choosy](https://www.instagram.com/choosy.xyz)
+- **Website:**     [Choosy](https://choosymedia.carrd.co)
+- **Twitter/X:**   [Choosy](https://x.com/choosyxyz)
+- **Instagram:**   [Choosy](https://www.instagram.com/choosy.xyz)
 
 ## 🌱 Currently Learning
 - Advanced business strategies 📊
