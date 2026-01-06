@@ -21,4 +21,4 @@ const yeet = {
     education: "self"
 }
 ```
-## In Short: U:\Earth\India\He\Harshit
+## In Short: U:\Earth\bharat\He\choosy
