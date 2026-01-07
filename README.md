@@ -30,6 +30,6 @@ const choosy = {
 ```
 ## <br />
 <div align="center">
-  <code>U:\Earth\India\He\Choosy</code>
+  <code>U:\Earth\Bharat\He\Choosy</code>
 </div>
 
