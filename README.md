@@ -1,4 +1,4 @@
-<img align='right' src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hi! I´m Choosy :3 
 ## biskoot
