@@ -14,14 +14,18 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const yeet = {
-    pronouns: "He" | "Him" | "Cooked",
-    age: "16",
-	  aka: "Choosy",
-	  country: "The Republic of Bhārat Gaṇarāj",
-    pioneer-at : "procrastination",
-    learning: "life",
-    education: "self"
+const choosy = {
+    pronouns: ["He", "Him", "Cooked"],
+    age: unknown,
+    aka: "Choosy",
+    location: "The Republic of Bhārat Gaṇarāj",
+    stack: [
+        "React", "Next.js", "Node.js",
+        "MongoDB", "Stripe", "Discord Bots"
+    ],
+    pioneerAt: "procrastination",
+    currentlyLearning: "life",
+    education: "self-taught"
 }
 ```
 ## <br />
