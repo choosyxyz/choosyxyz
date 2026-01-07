@@ -24,8 +24,8 @@ const yeet = {
     education: "self"
 }
 ```
-## In Short: U:\Earth\bharat\He\choosy
-<br />
+## <br />
 <div align="center">
-  <code>U:\Earth\India\He\Harshit</code>
+  <code>U:\Earth\India\He\Choosy</code>
 </div>
+
