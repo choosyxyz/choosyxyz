@@ -1,12 +1,8 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## Hi! I´m Choosy :3 
-## biskootdshjbfcjerbhgtgS
-FG
-RTE
-GT
-RE
-GRD
+## I'm choosy dhanric
+I wanna write something here but at the time I don't have anything in mind
 
 
 <a href="https://discordapp.com/users/888687422609715211">
