@@ -6,7 +6,8 @@ I wanna write something here but at the time I don't have anything in mind
 
 
 <a href="https://discordapp.com/users/888687422609715211">
-    <img src="https://img.shields.io/badge/Discord-choosy-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/LinkedIn-choosyxyz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
   </a>
   <a href="mailto:reach@choosy.dev">
     <img src="https://img.shields.io/badge/Mail-reach%40choosy.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
