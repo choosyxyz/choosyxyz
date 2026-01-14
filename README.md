@@ -10,7 +10,7 @@ I wanna write something here but at the time I don't have anything in mind
 
   </a>
   <a href="mailto:reach@choosy.dev">
-    <img src="https://img.shields.io/badge/Mail-reach%40choosy.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Mail-reach%40choosy.dev-D14836?style=white" alt="Email" />
   </a>
 
 
